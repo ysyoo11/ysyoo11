@@ -30,10 +30,10 @@ based on scalable and maintainable codebases.
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff"/>
 </a>
-<br />
+<!-- <br />
 <br />
 <p>
   <a href="https://github.com/ysyoo11">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysyoo11&layout=compact&show_icons=true" />
   </a>
-</p>
+</p> -->
