@@ -8,7 +8,7 @@ based on scalable and maintainable codebases.
 
 - [Enterpix](https://www.enterpix.app/): A web platform for AI curation and image generation.
 - [Hama](https://www.hama.app/): An AI-powered web application for erasing objects from an image.
-- [Coxwave Showcase](https://showcase.coxwave.app/): Five AI-based web app demos for the AI seminar held at LG Electronics.
+- [Coxwave Showcase](https://showcase.coxwave.app/): AI-based web app demos for the AI seminar held at LG Electronics.
 
 ### Tech stacks I use:
 
