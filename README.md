@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **front-end software engineer** focusing on providing<br />
+I'm a **full-stack software engineer** focusing on providing<br />
 high-quality results with robust and user-friendly web applications<br />
 based on scalable and maintainable codebases.
 
@@ -29,6 +29,9 @@ based on scalable and maintainable codebases.
 </a>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff"/>
+</a>
+<a href="https://nodejs.org/en" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 <!-- <br />
 <br />
